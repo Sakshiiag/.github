@@ -19,7 +19,7 @@ Learn more about GDSC Bundelkhand University [here](https://gdsc.community.dev/b
 - [Events](#events)
 - [Resources](#resources)
 - [Contributing](#contributing)
-- [Contact Us](#contact-us)
+- [Get involved](#get-involved)
 
 ## Projects
 
@@ -37,8 +37,9 @@ Access a collection of resources including presentation slides, workshop materia
 
 We welcome contributions from the community! If you have an idea for a project, a workshop, or want to collaborate, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## Contact Us
+## Get involved
 
+<img>
 Have questions or want to connect with us? Reach out to us on our social media channels:
 
 - [Facebook](https://www.facebook.com/)
